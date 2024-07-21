@@ -9,4 +9,4 @@
 
 
 ### Structure of 32-bits Pipeline CLA
-![image](https://github.com/user-attachments/assets/a17ce047-a1db-476d-9858-1d74c029643c)
+![스크린샷 2024-07-21 18-17-25](https://github.com/user-attachments/assets/8d74e009-8975-4bd4-b99f-1762e19bbb66)
