@@ -1,0 +1,33 @@
+`timescale 1ns / 1ps
+//////////////////////////////////////////////////////////////////////////////////
+// Company: 
+// Engineer: 
+// 
+// Create Date: 07/21/2024 01:32:32 PM
+// Design Name: 
+// Module Name: FF_carry
+// Project Name: 
+// Target Devices: 
+// Tool Versions: 
+// Description: 
+// 
+// Dependencies: 
+// 
+// Revision:
+// Revision 0.01 - File Created
+// Additional Comments:
+// 
+//////////////////////////////////////////////////////////////////////////////////
+
+
+module FF_carry(
+    input       i_clk,
+    input       i_data,
+    
+    output reg      o_data
+    );
+    
+    always@(posedge i_clk)begin
+        o_data <= i_data;
+    end
+endmodule
